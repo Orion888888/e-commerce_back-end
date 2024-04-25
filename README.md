@@ -51,7 +51,7 @@ N/A
 ## Demo 
 🚀 
 
-- ![Deployed - Site](assets/media/svg_logo_maker_video.gif)
+![Deployed - Site](/media/e-commerce_back-end_DEMO.gif)
 
 
 ## Author 
