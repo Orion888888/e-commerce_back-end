@@ -42,18 +42,16 @@ N/A
 - Insomnia
 - PostgresSQL
 
-## Deployed 
+## Repo 
 🚀 
 
-- ![Deployed - Site](assets/media/svg_logo_maker_video.gif)
-
-- [Github - Repo](https://github.com/Orion888888/svg_logo_maker.git)
+- [Github - Repo](https://github.com/Orion888888/e-commerce_back-end.git)
 
 
 ## Demo 
 🚀 
 
-![gif](/public/assets/gif/Note%20Taker.gif) 
+- ![Deployed - Site](assets/media/svg_logo_maker_video.gif)
 
 
 ## Author 
